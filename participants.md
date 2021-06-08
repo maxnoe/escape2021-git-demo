@@ -24,5 +24,6 @@ Please add your name in alphabetic order
 * Riccardo Seppi
 * @spectram
 * @tamasgal
+* @tgarratt
 * @valuz90
 * @viktor.rodin

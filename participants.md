@@ -3,9 +3,23 @@
 Please add your name in alphabetic order
 
 * @adonath
+* @akdiaz
+* @ali-mahani 
+* @amartinez
+* @astronomike
 * @guillaumehuet
+* @Hckjs
+* @iburelli
+* @initu
+* @johnedmartz
+* @kramerto
+* @kunathj
 * @maxnoe
+* @mfschneider
 * @nbiederbeck
-* 
-* 
-*
+* @stephcampbell 
+* @pivosb 
+* @spectram
+* @tamasgal
+* @valuz90
+* @viktor.rodin

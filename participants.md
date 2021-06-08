@@ -4,11 +4,15 @@ Please add your name in alphabetic order
 
 
 * @adonath
-* 
-* @dchooper
-*
+* @astronomike
+* @dchoope
+* @johnedmartz
+* @kramerto
 * @maxnoe
 * @nbiederbeck
+* 
+* @spectram
+* 
 * 
 * @tamasgal
 *

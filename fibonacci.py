@@ -1,3 +1,6 @@
+from functools import cache
+
+@cache
 def fibonacci(n):
     if n == 0:
         return 0
@@ -7,4 +10,4 @@ def fibonacci(n):
 
 
 if __name__ == '__main__':
-    print(fibonacci(20))
+    print(fibonacci(35))

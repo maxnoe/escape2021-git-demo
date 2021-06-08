@@ -24,12 +24,13 @@ Please add your name in alphabetic order
 * @maxnoe
 * @mfschneider
 * @nbiederbeck
-* @pivosb 
+* @pivo
 * Riccardo Seppi
 * @rowan
 * @sem-fs
 * @spectram
-* @stephcampbell 
+* @stephcampbell
+* @shandizp
 * @tamasgal
 * @tgarratt
 * @valuz90

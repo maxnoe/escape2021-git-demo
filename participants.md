@@ -13,6 +13,7 @@ Please add your name in alphabetic order
 * @Hckjs
 * @iburelli
 * @initu
+* @jtr6
 * @johnedmartz
 * @kmeyer001
 * @kramerto

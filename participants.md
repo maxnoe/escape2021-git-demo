@@ -19,6 +19,7 @@ Please add your name in alphabetic order
 * @nbiederbeck
 * @stephcampbell 
 * @pivosb 
+* Riccardo Seppi
 * @spectram
 * @tamasgal
 * @valuz90

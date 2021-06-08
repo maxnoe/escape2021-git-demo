@@ -3,6 +3,10 @@ from functools import cache
 
 @cache
 def fibonacci(n):
+    '''
+    Calculate the nth fibonacci number using recursion
+    and memoization.
+    '''
     if n == 0:
         return 0
     if n == 1:
@@ -11,6 +15,9 @@ def fibonacci(n):
 
 
 def fib_gen(n):
+    '''
+    A generator yielding the first n fibonacci numbers
+    '''
     for i in range(n):
         yield fibonacci(i)
 

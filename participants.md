@@ -2,11 +2,13 @@
 
 Please add your name in alphabetic order
 
+
 * @adonath
 * @akdiaz
 * @ali-mahani 
 * @amartinez
 * @astronomike
+* @dchooper
 * @guillaumehuet
 * @Hckjs
 * @iburelli

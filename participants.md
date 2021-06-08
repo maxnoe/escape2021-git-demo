@@ -8,6 +8,7 @@ Please add your name in alphabetic order
 * @ali-mahani 
 * @amartinez
 * @astronomike
+* @cristinamendonca
 * @dchooper
 * @devanshshukla99
 * @guillaumehuet

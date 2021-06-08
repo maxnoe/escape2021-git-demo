@@ -24,7 +24,7 @@ Please add your name in alphabetic order
 * @maxnoe
 * @mfschneider
 * @nbiederbeck
-* @pivo
+* @pivosb
 * Riccardo Seppi
 * @rowan
 * @sem-fs

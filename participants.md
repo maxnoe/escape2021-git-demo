@@ -22,6 +22,7 @@ Please add your name in alphabetic order
 * @stephcampbell 
 * @pivosb 
 * Riccardo Seppi
+* @rowan
 * @spectram
 * @tamasgal
 * @tgarratt

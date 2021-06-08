@@ -7,6 +7,7 @@ Please add your name in alphabetic order
 * @ali-mahani 
 * @amartinez
 * @astronomike
+* @guillaumehuet
 * @Hckjs
 * @iburelli
 * @initu

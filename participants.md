@@ -9,6 +9,7 @@ Please add your name in alphabetic order
 * @amartinez
 * @astronomike
 * @dchooper
+* @devanshshukla99
 * @guillaumehuet
 * @Hckjs
 * @iburelli

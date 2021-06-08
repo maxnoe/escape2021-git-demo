@@ -7,6 +7,7 @@ Please add your name in alphabetic order
 * @johnedmartz
 * @kramerto
 * @maxnoe
+* @mfschneider
 * @nbiederbeck
 * 
 * @spectram

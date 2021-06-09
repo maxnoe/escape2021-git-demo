@@ -25,3 +25,5 @@ def fib_gen(n):
 if __name__ == "__main__":
     for n in fib_gen(20):
         print(n)
+
+    print('Mathematicians are just crazy guys with crazy definitions')    

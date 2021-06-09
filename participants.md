@@ -40,6 +40,7 @@ Please add your name in alphabetic order
 * @tamasgal
 * @TaniaG2020
 * @tgarratt
+* @thanh
 * @valuz90
 * @vdaza
 * @viktor.rodin

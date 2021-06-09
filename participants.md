@@ -9,6 +9,7 @@ Please add your name in alphabetic order
 * @ali-mahani 
 * @amartinez
 * @astronomike
+* @claudia-danti
 * @cristinamendonca
 * @dchooper
 * @devanshshukla99

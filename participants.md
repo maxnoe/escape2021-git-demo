@@ -28,6 +28,10 @@ Please add your name in alphabetic order
 * @matiaspcerioni
 * @mfschneider
 * @nbiederbeck
+* @matiaspcerioni
+* @mfschneider
+* @nbiederbeck
+* @oscarcavichia
 * @rkamlah 
 * Riccardo Seppi
 * @rowan

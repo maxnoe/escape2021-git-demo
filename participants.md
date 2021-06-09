@@ -13,6 +13,7 @@ Please add your name in alphabetic order
 * @dchooper
 * @devanshshukla99
 * @egianuzzi
+* @elismarlosch
 * @guillaumehuet
 * @Hckjs
 * @iacconilaura

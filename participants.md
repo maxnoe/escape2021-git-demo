@@ -28,17 +28,7 @@ Please add your name in alphabetic order
 * @matiaspcerioni
 * @mfschneider
 * @nbiederbeck
-
 * @rkamlah 
-* 
-*
-
-* 
-* 
-*
-
-* @oscarcavichia
-* @pivosb 
 * Riccardo Seppi
 * @rowan
 * @saurabh_sharma
@@ -50,5 +40,3 @@ Please add your name in alphabetic order
 * @tgarratt
 * @valuz90
 * @viktor.rodin
-
-

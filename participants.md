@@ -41,4 +41,5 @@ Please add your name in alphabetic order
 * @TaniaG2020
 * @tgarratt
 * @valuz90
+* @vdaza
 * @viktor.rodin

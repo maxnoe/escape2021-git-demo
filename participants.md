@@ -4,6 +4,7 @@ Please add your name in alphabetic order
 
 
 * @adonath
+* @agusMRM
 * @akdiaz
 * @ali-mahani 
 * @amartinez
@@ -11,6 +12,7 @@ Please add your name in alphabetic order
 * @cristinamendonca
 * @dchooper
 * @devanshshukla99
+* @egianuzzi
 * @guillaumehuet
 * @Hckjs
 * @iacconilaura
@@ -21,17 +23,24 @@ Please add your name in alphabetic order
 * @kmeyer001
 * @kramerto
 * @kunathj
+* @marialom
 * @maxnoe
+* @matiaspcerioni
 * @mfschneider
 * @nbiederbeck
-* @pivosb 
+* @oscarcavichia
+* @pivosb
+* @rkamlah 
 * Riccardo Seppi
 * @rowan
+* @saurabh_sharma
+* @sem-fs
 * @spectram
 * @stephcampbell 
 * @tamasgal
-* @thanh
+* @TaniaG2020
 * @tgarratt
+* @thanh
 * @valuz90
+* @vdaza
 * @viktor.rodin
-

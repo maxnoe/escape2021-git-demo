@@ -15,6 +15,7 @@ Please add your name in alphabetic order
 * @devanshshukla99
 * @egianuzzi
 * @gaboio
+* @gabrielschneider97
 * @guillaumehuet
 * @Hckjs
 * @iacconilaura

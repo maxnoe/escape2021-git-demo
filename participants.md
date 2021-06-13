@@ -33,6 +33,7 @@ Please add your name in alphabetic order
 * @mfschneider
 * @nbiederbeck
 * @oscarcavichia
+* @osiloscop
 * @pivosb
 * @rkamlah 
 * Riccardo Seppi
